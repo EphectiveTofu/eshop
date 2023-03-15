@@ -4,7 +4,10 @@ import Product from '../products/product';
 
 function Home() {
   return (
+    
+
     <div className="home">
+
       <div className="home_container">
 
         <img src="https://www.x-cart.com/wp-content/uploads/2019/01/ecommerce-768x278.jpg" alt="home image" className="home_Image" />
